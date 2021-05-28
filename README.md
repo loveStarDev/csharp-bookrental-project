@@ -18,11 +18,13 @@
 - (도서)등록/폐기
 - 통계
 - 회원관리
+- new 문자서비스
 
 ## UI 및 전체 디자인
 
 <div align=center>
   
+  ![image](https://user-images.githubusercontent.com/48270975/119960226-b62dd000-bfdf-11eb-82b0-4583f00d89df.png)
   ![image](https://user-images.githubusercontent.com/48270975/119957821-664e0980-bfdd-11eb-8a3f-fd60607f3c57.png)
   ![image](https://user-images.githubusercontent.com/48270975/119957855-6cdc8100-bfdd-11eb-8d5c-5c78fa73c743.png)
   ![image](https://user-images.githubusercontent.com/48270975/119957884-736af880-bfdd-11eb-888e-954e36439e5a.png)
